@@ -1,0 +1,106 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "D:\\\\@repos\\\\map-game\\\\client\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index"
+  },
+  {
+    "path": "/dev",
+    "component": "D:\\\\@repos\\\\map-game\\\\client\\\\pages\\\\dev\\\\index.vue",
+    "chunkName": "pages/dev/index",
+    "children": [
+      {
+        "name": "dev-index",
+        "path": "",
+        "component": "D:\\\\@repos\\\\map-game\\\\client\\\\pages\\\\dev\\\\index\\\\index.vue",
+        "chunkName": "pages/dev/index/index"
+      },
+      {
+        "name": "dev-index-auth",
+        "path": "auth",
+        "component": "D:\\\\@repos\\\\map-game\\\\client\\\\pages\\\\dev\\\\index\\\\auth.vue",
+        "chunkName": "pages/dev/index/auth"
+      },
+      {
+        "name": "dev-index-endpoints",
+        "path": "endpoints",
+        "component": "D:\\\\@repos\\\\map-game\\\\client\\\\pages\\\\dev\\\\index\\\\endpoints.vue",
+        "chunkName": "pages/dev/index/endpoints"
+      },
+      {
+        "name": "dev-index-example",
+        "path": "example",
+        "component": "D:\\\\@repos\\\\map-game\\\\client\\\\pages\\\\dev\\\\index\\\\example.vue",
+        "chunkName": "pages/dev/index/example"
+      },
+      {
+        "name": "dev-index-files",
+        "path": "files",
+        "component": "D:\\\\@repos\\\\map-game\\\\client\\\\pages\\\\dev\\\\index\\\\files.vue",
+        "chunkName": "pages/dev/index/files"
+      },
+      {
+        "name": "dev-index-nav",
+        "path": "nav",
+        "component": "D:\\\\@repos\\\\map-game\\\\client\\\\pages\\\\dev\\\\index\\\\nav.vue",
+        "chunkName": "pages/dev/index/nav"
+      }
+    ]
+  },
+  {
+    "name": "admin-files",
+    "path": "/admin/files",
+    "component": "D:\\\\@repos\\\\map-game\\\\client\\\\pages\\\\admin\\\\files.vue",
+    "chunkName": "pages/admin/files"
+  },
+  {
+    "path": "/admin/settings",
+    "component": "D:\\\\@repos\\\\map-game\\\\client\\\\pages\\\\admin\\\\settings.vue",
+    "chunkName": "pages/admin/settings",
+    "children": [
+      {
+        "name": "admin-settings",
+        "path": "",
+        "component": "D:\\\\@repos\\\\map-game\\\\client\\\\pages\\\\admin\\\\settings\\\\index.vue",
+        "chunkName": "pages/admin/settings/index"
+      },
+      {
+        "name": "admin-settings-email",
+        "path": "email",
+        "component": "D:\\\\@repos\\\\map-game\\\\client\\\\pages\\\\admin\\\\settings\\\\email.vue",
+        "chunkName": "pages/admin/settings/email"
+      },
+      {
+        "name": "admin-settings-user",
+        "path": "user",
+        "component": "D:\\\\@repos\\\\map-game\\\\client\\\\pages\\\\admin\\\\settings\\\\user.vue",
+        "chunkName": "pages/admin/settings/user"
+      }
+    ]
+  },
+  {
+    "name": "admin-users",
+    "path": "/admin/users",
+    "component": "D:\\\\@repos\\\\map-game\\\\client\\\\pages\\\\admin\\\\users\\\\index.vue",
+    "chunkName": "pages/admin/users/index"
+  },
+  {
+    "name": "admin-map-test",
+    "path": "/admin/map/test",
+    "component": "D:\\\\@repos\\\\map-game\\\\client\\\\pages\\\\admin\\\\map\\\\test.vue",
+    "chunkName": "pages/admin/map/test"
+  },
+  {
+    "name": "admin-users-id",
+    "path": "/admin/users/:id",
+    "component": "D:\\\\@repos\\\\map-game\\\\client\\\\pages\\\\admin\\\\users\\\\_id.vue",
+    "chunkName": "pages/admin/users/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\@repos\\\\map-game\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
